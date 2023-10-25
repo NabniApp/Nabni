@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400785634383",
+    "project_id": "nabni-a7852",
+    "storage_bucket": "nabni-a7852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400785634383:android:e69ff01a9ded18cae8263a",
+        "android_client_info": {
+          "package_name": "com.nabni.new_nabni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxed6nPS5L2aJIkd6F8rulMV81y_kcYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
